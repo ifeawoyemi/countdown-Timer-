@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;500&family=Roboto:wght@300&display=swap');
 
 body {
-  background-image: linear-gradient(90deg, #676B92, grey);
+  background: #676B92;
   display:flex;
   flex-direction: column;
   align-items: center;
